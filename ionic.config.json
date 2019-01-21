@@ -1,0 +1,7 @@
+{
+  "name": "Condor",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
